@@ -1,0 +1,1128 @@
+[
+ {
+   "item": "Items",
+   "cost": ""
+ },
+ {
+   "item": "Broken Bones",
+   "cost": "10",
+   "img": "/images/Broken_bones.png",
+   "category": "Trash"
+ },
+ {
+   "item": "Little Tooth",
+   "cost": "20"
+ },
+ {
+   "item": "Old Rope",
+   "cost": "20"
+ },
+ {
+   "item": "Broken Axe",
+   "cost": "10"
+ },
+ {
+   "item": "Broken Hoe",
+   "cost": "10"
+ },
+ {
+   "item": "Old Bucket",
+   "cost": "10"
+ },
+ {
+   "item": "Dirt",
+   "cost": "60"
+ },
+ {
+   "item": "Fish Trash",
+   "cost": "30"
+ },
+ {
+   "item": "Grass",
+   "cost": "100"
+ },
+ {
+   "item": "Scrub",
+   "cost": "70"
+ },
+ {
+   "item": "Water Bucket",
+   "cost": "70"
+ },
+ {
+   "item": "Pile of Bones",
+   "cost": "10"
+ },
+ {
+   "item": "Simple Stone",
+   "cost": "10"
+ },
+ {
+   "item": "Crafting",
+   "cost": ""
+ },
+ {
+   "item": "Dirty Fiber",
+   "cost": "20"
+ },
+ {
+   "item": "Torn Hide",
+   "cost": "20"
+ },
+ {
+   "item": "Fiber",
+   "cost": "30"
+ },
+ {
+   "item": "Hide",
+   "cost": "30"
+ },
+ {
+   "item": "Quality Fiber",
+   "cost": "40"
+ },
+ {
+   "item": "Strong Hide",
+   "cost": "40"
+ },
+ {
+   "item": "Beech Twig",
+   "cost": "10"
+ },
+ {
+   "item": "Copper Nugget",
+   "cost": "10"
+ },
+ {
+   "item": "Vogria Leaf",
+   "cost": "10"
+ },
+ {
+   "item": "Beech Branches",
+   "cost": "25"
+ },
+ {
+   "item": "Copper Ore",
+   "cost": "25"
+ },
+ {
+   "item": "Vogria Bundle",
+   "cost": "25"
+ },
+ {
+   "item": "Beech Plank",
+   "cost": "55"
+ },
+ {
+   "item": "Copper Ingot",
+   "cost": "55"
+ },
+ {
+   "item": "Dried Vogria",
+   "cost": "55"
+ },
+ {
+   "item": "Torn Strap",
+   "cost": "20"
+ },
+ {
+   "item": "Torn Leather",
+   "cost": "20"
+ },
+ {
+   "item": "Copper Plate",
+   "cost": "55"
+ },
+ {
+   "item": "Copper Bar",
+   "cost": "55"
+ },
+ {
+   "item": "Dirty Yarn",
+   "cost": "20"
+ },
+ {
+   "item": "Dirty Cloth",
+   "cost": "20"
+ },
+ {
+   "item": "Vogria Powder",
+   "cost": "55"
+ },
+ {
+   "item": "Vogria Paste",
+   "cost": "55"
+ },
+ {
+   "item": "Beech Handle",
+   "cost": "55"
+ },
+ {
+   "item": "Beech Rod",
+   "cost": "55"
+ },
+ {
+   "item": "Alder Twig",
+   "cost": "15"
+ },
+ {
+   "item": "Tin Nugget",
+   "cost": "15"
+ },
+ {
+   "item": "Irruvil Leaf",
+   "cost": "15"
+ },
+ {
+   "item": "Alder Branches",
+   "cost": "40"
+ },
+ {
+   "item": "Tin Ore",
+   "cost": "40"
+ },
+ {
+   "item": "Irruvil Bundle",
+   "cost": "40"
+ },
+ {
+   "item": "Alder Plank",
+   "cost": "90"
+ },
+ {
+   "item": "Tin Ingot",
+   "cost": "90"
+ },
+ {
+   "item": "Dried Irruvil",
+   "cost": "90"
+ },
+ {
+   "item": "Leather",
+   "cost": "30"
+ },
+ {
+   "item": "Yarn",
+   "cost": "30"
+ },
+ {
+   "item": "Cloth",
+   "cost": "30"
+ },
+ {
+   "item": "Strap",
+   "cost": "30"
+ },
+ {
+   "item": "Tin Plate",
+   "cost": "90"
+ },
+ {
+   "item": "Tin Bar",
+   "cost": "90"
+ },
+ {
+   "item": "Irruvil Paste",
+   "cost": "90"
+ },
+ {
+   "item": "Irruvil Powder",
+   "cost": "90"
+ },
+ {
+   "item": "Alder Handle",
+   "cost": "90"
+ },
+ {
+   "item": "Alder Rod",
+   "cost": "90"
+ },
+ {
+   "item": "Spruce Twig",
+   "cost": "20"
+ },
+ {
+   "item": "Iron Nugget",
+   "cost": "20"
+ },
+ {
+   "item": "Lavekawa Leaf",
+   "cost": "20"
+ },
+ {
+   "item": "Spruce Branches",
+   "cost": "55"
+ },
+ {
+   "item": "Iron Ore",
+   "cost": "55"
+ },
+ {
+   "item": "Lavekawa Bundle",
+   "cost": "55"
+ },
+ {
+   "item": "Spruce Plank",
+   "cost": "125"
+ },
+ {
+   "item": "Iron Ingot",
+   "cost": "125"
+ },
+ {
+   "item": "Dried Lavekawa",
+   "cost": "125"
+ },
+ {
+   "item": "Strong Strap",
+   "cost": "40"
+ },
+ {
+   "item": "Strong Yarn",
+   "cost": "40"
+ },
+ {
+   "item": "Quality Cloth",
+   "cost": "40"
+ },
+ {
+   "item": "Iron Plate",
+   "cost": "125"
+ },
+ {
+   "item": "Iron Bar",
+   "cost": "125"
+ },
+ {
+   "item": "Lavekawa Powder",
+   "cost": "125"
+ },
+ {
+   "item": "Lavekawa Paste",
+   "cost": "125"
+ },
+ {
+   "item": "Spruce Handle",
+   "cost": "125"
+ },
+ {
+   "item": "Spruce Rod",
+   "cost": "125"
+ },
+ {
+   "item": "Strong Leather",
+   "cost": "40"
+ },
+ {
+   "item": "Tigerseye",
+   "cost": "40"
+ },
+ {
+   "item": "Malachite",
+   "cost": "40"
+ },
+ {
+   "item": "Agate",
+   "cost": "40"
+ },
+ {
+   "item": "Red Blossom",
+   "cost": "40"
+ },
+ {
+   "item": "Vogria Root",
+   "cost": "40"
+ },
+ {
+   "item": "Vogria Essence",
+   "cost": "40"
+ },
+ {
+   "item": "Beechnut",
+   "cost": "40"
+ },
+ {
+   "item": "Beech Bark",
+   "cost": "40"
+ },
+ {
+   "item": "Eurhinus Resin",
+   "cost": "40"
+ },
+ {
+   "item": "Quartz",
+   "cost": "50"
+ },
+ {
+   "item": "Obsidian",
+   "cost": "50"
+ },
+ {
+   "item": "Jasper",
+   "cost": "50"
+ },
+ {
+   "item": "Irruvil Root",
+   "cost": "50"
+ },
+ {
+   "item": "Irruvil Essence",
+   "cost": "50"
+ },
+ {
+   "item": "Irruvil Bloom",
+   "cost": "50"
+ },
+ {
+   "item": "Alder Resin",
+   "cost": "50"
+ },
+ {
+   "item": "Alder Cones",
+   "cost": "50"
+ },
+ {
+   "item": "Wisdom Bark",
+   "cost": "50"
+ },
+ {
+   "item": "Ruby",
+   "cost": "70"
+ },
+ {
+   "item": "Lapis",
+   "cost": "70"
+ },
+ {
+   "item": "Amethyst",
+   "cost": "70"
+ },
+ {
+   "item": "Lavekawa Root",
+   "cost": "70"
+ },
+ {
+   "item": "Lavekawa Essence",
+   "cost": "70"
+ },
+ {
+   "item": "Lavekawa Bloom",
+   "cost": "70"
+ },
+ {
+   "item": "Spruce Cones",
+   "cost": "70"
+ },
+ {
+   "item": "Spruce Bark",
+   "cost": "70"
+ },
+ {
+   "item": "Spruce Resin",
+   "cost": "70"
+ },
+ {
+   "item": "Geodes",
+   "cost": "5,000"
+ },
+ {
+   "item": "Gleaming Aubecyite",
+   "cost": "4,000"
+ },
+ {
+   "item": "Gleaming Kunnasite",
+   "cost": "4,000"
+ },
+ {
+   "item": "Gleaming Neptnovite",
+   "cost": "4,000"
+ },
+ {
+   "item": "Gleaming Sushorite",
+   "cost": "4,000"
+ },
+ {
+   "item": "Broken Crown",
+   "cost": "80,000"
+ },
+ {
+   "item": "Livi",
+   "cost": "4,000"
+ },
+ {
+   "item": "ToaDs",
+   "cost": "500"
+ },
+ {
+   "item": "Keys",
+   "cost": ""
+ },
+ {
+   "item": "BB keys",
+   "cost": "1,100"
+ },
+ {
+   "item": "WH keys",
+   "cost": "400"
+ },
+ {
+   "item": "MG keys",
+   "cost": "300"
+ },
+ {
+   "item": "AC keys",
+   "cost": "400"
+ },
+ {
+   "item": "CC keys",
+   "cost": "150"
+ },
+ {
+   "item": "Forslurite",
+   "cost": "600"
+ },
+ {
+   "item": "Potions",
+   "cost": ""
+ },
+ {
+   "item": "Healing Potion",
+   "cost": "2"
+ },
+ {
+   "item": "Greater Healing Potion",
+   "cost": "5"
+ },
+ {
+   "item": "Strong Healing Potion",
+   "cost": "15"
+ },
+ {
+   "item": "Lavekawa Healing Potion",
+   "cost": "30"
+ },
+ {
+   "item": "Mana Potion",
+   "cost": "4"
+ },
+ {
+   "item": "Greater Mana Potion",
+   "cost": "8"
+ },
+ {
+   "item": "Strong Mana Potion",
+   "cost": "30"
+ },
+ {
+   "item": "Lavekawa Mana Potion",
+   "cost": "100"
+ },
+ {
+   "item": "Energy Potion",
+   "cost": "3"
+ },
+ {
+   "item": "Greater Energy Potion",
+   "cost": "7"
+ },
+ {
+   "item": "Strong Energy Potion",
+   "cost": "30"
+ },
+ {
+   "item": "Lavekawa Energy Potion",
+   "cost": "60"
+ },
+ {
+   "item": "Beer",
+   "cost": "25"
+ },
+ {
+   "item": "Books",
+   "cost": ""
+ },
+ {
+   "item": "Vamp H",
+   "cost": "90,000"
+ },
+ {
+   "item": "Ritual H",
+   "cost": "65,000"
+ },
+ {
+   "item": "Grave H",
+   "cost": "40,000"
+ },
+ {
+   "item": "Sere H",
+   "cost": "35,000"
+ },
+ {
+   "item": "Crafted Waterfall",
+   "cost": "1,500"
+ },
+ {
+   "item": "Crafted Omen",
+   "cost": "1,500"
+ },
+ {
+   "item": "Crafted Catastrophe",
+   "cost": "1,500"
+ },
+ {
+   "item": "Crafted Cataclysm Mithril Blade",
+   "cost": "1,500"
+ },
+ {
+   "item": "Crafted Headguard of Torment",
+   "cost": "1,500"
+ },
+ {
+   "item": "Crafted Chestplate of Torment",
+   "cost": "1,500"
+ },
+ {
+   "item": "Crafted Legguards of Torment",
+   "cost": "1,500"
+ },
+ {
+   "item": "Crafted Shoulders of Torment",
+   "cost": "1,500"
+ },
+ {
+   "item": "Crafted Gauntlets of Torment",
+   "cost": "1,500"
+ },
+ {
+   "item": "Crafted Warboots of Torment",
+   "cost": "1,500"
+ },
+ {
+   "item": "Crafted Headguard of Memories",
+   "cost": "1,500"
+ },
+ {
+   "item": "Crafted Chestplate of Memories",
+   "cost": "1,500"
+ },
+ {
+   "item": "Crafted Legguards of Memories",
+   "cost": "1,500"
+ },
+ {
+   "item": "Crafted Shoulders of Memories",
+   "cost": "1,500"
+ },
+ {
+   "item": "Crafted Gauntlets of Memories",
+   "cost": "1,500"
+ },
+ {
+   "item": "Crafted Warboots of Memories",
+   "cost": "1,500"
+ },
+ {
+   "item": "Crafted Headguard of Bloodlust",
+   "cost": "1,500"
+ },
+ {
+   "item": "Crafted Chestplate of Bloodlust",
+   "cost": "1,500"
+ },
+ {
+   "item": "Crafted Legguards of Bloodlust",
+   "cost": "1,500"
+ },
+ {
+   "item": "Crafted Shoulders of Bloodlust",
+   "cost": "1,500"
+ },
+ {
+   "item": "Crafted Gauntlets of Bloodlust",
+   "cost": "1,500"
+ },
+ {
+   "item": "Crafted Warboots of Bloodlust",
+   "cost": "1,500"
+ },
+ {
+   "item": "Crafted Headguard of Nightmares",
+   "cost": "1,500"
+ },
+ {
+   "item": "Crafted Chestplate of Nightmares",
+   "cost": "1,500"
+ },
+ {
+   "item": "Crafted Legguards of Nightmares",
+   "cost": "1,500"
+ },
+ {
+   "item": "Crafted Shoulders of Nightmares",
+   "cost": "1,500"
+ },
+ {
+   "item": "Crafted Gauntlets of Nightmares",
+   "cost": "1,500"
+ },
+ {
+   "item": "Crafted Warboots of Nightmares",
+   "cost": "1,500"
+ },
+ {
+   "item": "First Letter",
+   "cost": "500"
+ },
+ {
+   "item": "Second Letter",
+   "cost": "500"
+ },
+ {
+   "item": "Third Letter",
+   "cost": "500"
+ },
+ {
+   "item": "Fourth Letter",
+   "cost": "500"
+ },
+ {
+   "item": "First Book of Gudmar",
+   "cost": "500"
+ },
+ {
+   "item": "Second Book of Gudmar",
+   "cost": "500"
+ },
+ {
+   "item": "Third Book of Gudmar",
+   "cost": "500"
+ },
+ {
+   "item": "Fourth Book of Gudmar",
+   "cost": "500"
+ },
+ {
+   "item": "Diary Page 1",
+   "cost": "500"
+ },
+ {
+   "item": "Diary Page 2",
+   "cost": "500"
+ },
+ {
+   "item": "Diary Page 3",
+   "cost": "500"
+ },
+ {
+   "item": "Diary Page 4",
+   "cost": "500"
+ },
+ {
+   "item": "Grave Stone",
+   "cost": "500"
+ },
+ {
+   "item": "Grave Plate",
+   "cost": "500"
+ },
+ {
+   "item": "Tombstone",
+   "cost": "500"
+ },
+ {
+   "item": "Memorial Slab",
+   "cost": "500"
+ },
+ {
+   "item": "Misc",
+   "cost": ""
+ },
+ {
+   "item": "RBC",
+   "cost": "4,500"
+ },
+ {
+   "item": "Gem Items",
+   "cost": ""
+ },
+ {
+   "item": "Traveler's Backpack (TBP)",
+   "cost": ""
+ },
+ {
+   "item": "Farmer's Backpack (FBP)",
+   "cost": ""
+ },
+ {
+   "item": "Guard's Backpack (GBP)",
+   "cost": ""
+ },
+ {
+   "item": "Royal Bear Deco Crate",
+   "cost": "175,000"
+ },
+ {
+   "item": "Glynphyra Deco Crate",
+   "cost": "175,000"
+ },
+ {
+   "item": "Stein Acc 30-day Token",
+   "cost": ""
+ },
+ {
+   "item": "Stein Acc 90-day Token",
+   "cost": ""
+ },
+ {
+   "item": "Stein Acc 180-day Token",
+   "cost": ""
+ },
+ {
+   "item": "Royal Throne",
+   "cost": ""
+ },
+ {
+   "item": "Red Carpet",
+   "cost": ""
+ },
+ {
+   "item": "Moon Festival Statue",
+   "cost": ""
+ },
+ {
+   "item": "Royal Scepter",
+   "cost": ""
+ },
+ {
+   "item": "Moon Festival Mask",
+   "cost": ""
+ },
+ {
+   "item": "Moon Festival Headgear",
+   "cost": ""
+ },
+ {
+   "item": "Royal Crown",
+   "cost": ""
+ },
+ {
+   "item": "Red Troll Mask",
+   "cost": ""
+ },
+ {
+   "item": "Blue Troll Mask",
+   "cost": ""
+ },
+ {
+   "item": "Fluffy Mask",
+   "cost": ""
+ },
+ {
+   "item": "Magic Lanterns",
+   "cost": ""
+ },
+ {
+   "item": "Mask Bundle",
+   "cost": ""
+ },
+ {
+   "item": "Royal Bundle",
+   "cost": ""
+ },
+ {
+   "item": "Moon Festival Bundle",
+   "cost": ""
+ },
+ {
+   "item": "Moon Firecracker",
+   "cost": ""
+ },
+ {
+   "item": "Thanksgiving Bundle",
+   "cost": ""
+ },
+ {
+   "item": "Chicken Hat",
+   "cost": ""
+ },
+ {
+   "item": "Thanksgiving Hat",
+   "cost": ""
+ },
+ {
+   "item": "Beautiful Thanksgiving Meal",
+   "cost": ""
+ },
+ {
+   "item": "Green Bush",
+   "cost": ""
+ },
+ {
+   "item": "Drying Fish",
+   "cost": ""
+ },
+ {
+   "item": "Tree Trunk",
+   "cost": ""
+ },
+ {
+   "item": "Wood Pile",
+   "cost": ""
+ },
+ {
+   "item": "Bucket of Water",
+   "cost": ""
+ },
+ {
+   "item": "Glynphyra Cult Stone Statue",
+   "cost": ""
+ },
+ {
+   "item": "Barrel",
+   "cost": ""
+ },
+ {
+   "item": "Wooden Boxes",
+   "cost": ""
+ },
+ {
+   "item": "Bucket",
+   "cost": ""
+ },
+ {
+   "item": "Big Rock",
+   "cost": ""
+ },
+ {
+   "item": "Hay Stack",
+   "cost": ""
+ },
+ {
+   "item": "Royal Bears Stone Statue",
+   "cost": ""
+ },
+ {
+   "item": "Coffin",
+   "cost": ""
+ },
+ {
+   "item": "Spider Egg",
+   "cost": ""
+ },
+ {
+   "item": "Gravestone",
+   "cost": ""
+ },
+ {
+   "item": "Glynphyra Cult Bronze Statue",
+   "cost": ""
+ },
+ {
+   "item": "Anvil",
+   "cost": ""
+ },
+ {
+   "item": "Warning Sign",
+   "cost": ""
+ },
+ {
+   "item": "Royal Bears Bronze Statue",
+   "cost": ""
+ },
+ {
+   "item": "Target",
+   "cost": ""
+ },
+ {
+   "item": "Scarecrow",
+   "cost": ""
+ },
+ {
+   "item": "Glynphyra Cult Silver Statue",
+   "cost": ""
+ },
+ {
+   "item": "Glowing Flower",
+   "cost": ""
+ },
+ {
+   "item": "Dummy",
+   "cost": ""
+ },
+ {
+   "item": "Street Lamp",
+   "cost": ""
+ },
+ {
+   "item": "Royal Bears Silver Statue",
+   "cost": ""
+ },
+ {
+   "item": "Glynphyra Cult Gold Statue",
+   "cost": ""
+ },
+ {
+   "item": "Table with Food",
+   "cost": ""
+ },
+ {
+   "item": "Royal Bears Gold Statue",
+   "cost": ""
+ },
+ {
+   "item": "Table with Drinks",
+   "cost": ""
+ },
+ {
+   "item": "Campfire",
+   "cost": ""
+ },
+ {
+   "item": "Torch",
+   "cost": ""
+ },
+ {
+   "item": "Daily Reward Items",
+   "cost": ""
+ },
+ {
+   "item": "Decent Waldenbach Items Crate",
+   "cost": "1,000"
+ },
+ {
+   "item": "Decent Geledur Items Crate",
+   "cost": "750"
+ },
+ {
+   "item": "Decent Farshore Items Crate",
+   "cost": "500"
+ },
+ {
+   "item": "Waldenbach Resources Crate",
+   "cost": "1,500"
+ },
+ {
+   "item": "Geledur Resources Crate",
+   "cost": "1,200"
+ },
+ {
+   "item": "Farshore Resources Crate",
+   "cost": "900"
+ },
+ {
+   "item": "Summon Party Scroll",
+   "cost": "2,000"
+ },
+ {
+   "item": "Superior Waldenbach Items Crate",
+   "cost": "2,000"
+ },
+ {
+   "item": "Superior Geledur Items Crate",
+   "cost": "2,000"
+ },
+ {
+   "item": "Superior Farshore Items Crate",
+   "cost": "1,000"
+ },
+ {
+   "item": "Crate of Surprises",
+   "cost": "4,000"
+ },
+ {
+   "item": "Experience Scroll",
+   "cost": "8,000"
+ },
+ {
+   "item": "Trader Scroll",
+   "cost": "2,000"
+ },
+ {
+   "item": "Bank Crate Scroll",
+   "cost": "2,000"
+ },
+ {
+   "item": "Tiny Pocket",
+   "cost": "143,000"
+ },
+ {
+   "item": "Snowball",
+   "cost": "1,000"
+ },
+ {
+   "item": "Throwable Stein",
+   "cost": "1,000"
+ },
+ {
+   "item": "Firecracker",
+   "cost": "1,000"
+ },
+ {
+   "item": "Polymorph: Green Bush",
+   "cost": "4,000"
+ },
+ {
+   "item": "Polymorph: Water Bucket",
+   "cost": "4,000"
+ },
+ {
+   "item": "Polymorph: Gravestone",
+   "cost": "4,000"
+ },
+ {
+   "item": "Polymorph: Barrel",
+   "cost": "4,000"
+ },
+ {
+   "item": "Polymorph: Wooden Box",
+   "cost": "4,000"
+ },
+ {
+   "item": "Polymorph: Bucket",
+   "cost": "4,000"
+ },
+ {
+   "item": "Polymorph: Chef's Hat",
+   "cost": "2,000"
+ },
+ {
+   "item": "Polymorph: Royal Crown",
+   "cost": "2,000"
+ },
+ {
+   "item": "Polymorph: Blue Troll Mask",
+   "cost": "2,000"
+ },
+ {
+   "item": "Polymorph: Red Troll Mask",
+   "cost": "2,000"
+ },
+ {
+   "item": "Polymorph: Fluffy Mask",
+   "cost": "2,000"
+ },
+ {
+   "item": "Polymorph: Madron's Head",
+   "cost": "2,000"
+ },
+ {
+   "item": "Polymorph: Tuni's Head",
+   "cost": "2,000"
+ },
+ {
+   "item": "Polymorph: Wig with Sunglasses",
+   "cost": "2,000"
+ },
+ {
+   "item": "Polymorph: Top Hat",
+   "cost": "2,000"
+ },
+ {
+   "item": "Polymorph: Chicken Hat",
+   "cost": "2,000"
+ },
+ {
+   "item": "Polymorph: Woodpile",
+   "cost": "4,000"
+ }
+]
