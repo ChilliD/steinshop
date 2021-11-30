@@ -1,0 +1,29 @@
+{
+  "name": "stein-marketplace",
+  "version": "1.0.0",
+  "description": "Unofficial Marketplace for stein.world",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChilliD/steinshop.git"
+  },
+  "author": "Chilli D",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChilliD/steinshop/issues"
+  },
+  "homepage": "https://github.com/ChilliD/steinshop#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongodb": "^4.2.0",
+    "mongoose": "^6.0.13"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

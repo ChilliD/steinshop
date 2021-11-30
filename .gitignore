@@ -1,2 +1,5 @@
 /tok.txt
 /prices
+.DS_Store
+/node_modules
+shop.env
