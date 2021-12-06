@@ -12,21 +12,21 @@ fetch(url)
     })
 
 searchbar.addEventListener('keyup', (e) => {
-    let str = e.target.value;
+    let str = e.target.value.toLowerCase();
 
     if (str.length === 0) {
         hideContainer();
-    } else {
+    } else if (str.length >= 3) {
         showContainer();
+        clearContainer();
         let resultBox = document.createElement('div');
         let results = prices.filter(item => {
-            item.item.toLowerCase() == str.toLowerCase();
+            return (item.item.toLowerCase().includes(str));
         });
-
+        console.log(results);
         results.forEach(item => {
             createItemCard(item);
         });
-        
         container.appendChild(resultBox);
     }
 });
@@ -73,6 +73,12 @@ function hideContainer() {
 
 function showContainer() {
     container.style.visibility = 'visible';
+}
+
+function clearContainer() {
+    while (container.lastChild) {
+        container.removeChild(container.firstChild);
+    }
 }
 
 hideContainer();

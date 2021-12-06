@@ -34,6 +34,7 @@ body {
 .search-bar {
     font-size: .75em;
     height: 1.5em;
+    min-width: 45%;
     padding: .25rem;
     margin-bottom: .5rem;
     align-self: flex-end;
@@ -42,15 +43,17 @@ body {
 .container {
     background-color: #9a7743;
     display: flex;
-    justify-content: center;
-    width: 75%;
+    flex-direction: column;
+    width: 100%;
     padding: 1rem;
     border: 2px solid #7b5f36;
 }
 
 .row {
-    background-color: blue;
-    font-size: 1.5em;
+    background-color: #bc9266;
+    font-size: .75em;
+    width: 100%;
+    border: 2px solid #7b5f36;
 }
 
 .item-card {

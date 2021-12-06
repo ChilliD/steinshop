@@ -11,35 +11,51 @@
  },
  {
    "item": "Little Tooth",
-   "cost": "20"
+   "cost": "20",
+   "img": "/images/Little_tooth.png",
+   "category": "Trash"
  },
  {
    "item": "Old Rope",
-   "cost": "20"
+   "cost": "20",
+   "img": "/images/Old-rope.png",
+   "category": "Trash"
  },
  {
    "item": "Broken Axe",
-   "cost": "10"
+   "cost": "10",
+   "img": "/images/Trash_axe.png",
+   "category": "Trash"
  },
  {
    "item": "Broken Hoe",
-   "cost": "10"
+   "cost": "10",
+   "img": "/images/Trash_hoe.png",
+   "category": "Trash"
  },
  {
    "item": "Old Bucket",
-   "cost": "10"
+   "cost": "10",
+   "img": "/images/Trash_bucket.png",
+   "category": "Trash"
  },
  {
    "item": "Dirt",
-   "cost": "60"
+   "cost": "60",
+   "img": "/images/Trash_dirt.png",
+   "category": "Trash"
  },
  {
    "item": "Fish Trash",
-   "cost": "30"
+   "cost": "30",
+   "img": "/images/Trash_fish.png",
+   "category": "Trash"
  },
  {
    "item": "Grass",
-   "cost": "100"
+   "cost": "100",
+   "img": "/images/Trash_grass.png",
+   "category": "Trash"
  },
  {
    "item": "Scrub",
@@ -51,11 +67,15 @@
  },
  {
    "item": "Pile of Bones",
-   "cost": "10"
+   "cost": "10",
+   "img": "/images/Broken_bones.png",
+   "category": "Trash"
  },
  {
    "item": "Simple Stone",
-   "cost": "10"
+   "cost": "10",
+   "img": "/images/Trash_stone.png",
+   "category": "Trash"
  },
  {
    "item": "Crafting",
